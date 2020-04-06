@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+  font-family: arial;
+  font-size: 20;
+  margin: 0;
+  background-color:#3ac78c;
+}
+
+nav{
+  margin-top: 25px;
+}
+
+.menu{
+  width: 200px;
+  text-align: center;
+  padding: 20px;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+
+div{
+  margin-left: 20px;
+  margin-top: 80px;
+}
